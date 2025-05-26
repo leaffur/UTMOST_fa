@@ -15,4 +15,4 @@ devtools::install_github("leaffur/UTMOST_fa")
 
 ## 2. Reference
 
-  - *Hu, Y.M. et al. A statistical framework for cross-tissue transcriptome-wide association analysis. Nature Genetics 51, 568-576 (2019).* [Link](https://www.nature.com/articles/s41588-019-0345-7).
+  - *Hu, Y. et al. A statistical framework for cross-tissue transcriptome-wide association analysis. Nature Genetics 51, 568-576 (2019).* [Link](https://www.nature.com/articles/s41588-019-0345-7).
