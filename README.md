@@ -1,4 +1,4 @@
-# UTMOST_fa: Cell-type-specific And Shared EQTL Fine-mapping
+# UTMOST_fa
 
 `UTMOST_fa` is an R package designed for a joint gene expression imputation model for multiple contexts with functional annotations, with a particular focus on single-cell TWAS analysis.
 
