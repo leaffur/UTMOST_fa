@@ -1,0 +1,21 @@
+Package: UTMOSTfa
+Type: Package
+Title: Cross-context gene expression imputation with functional annotations
+Version: 0.1.0
+Authors@R: c(
+    person("Chen", "Lin", , "c.lin@yale.edu", role = c("aut", "cre"),
+           comment = c(ORCID = "0000-0001-9821-2578")),
+    person("Hongyu", "Zhao", , "hongyu.zhao@yale.edu", role = "aut")
+  )
+Maintainer: Chen Lin <c.lin@yale.edu>
+Description: A joint gene expression imputation model for multiple contexts
+    with functional annotations, using a sparse group lasso penalty.
+License: GPL (>= 3)
+Imports: 
+    Rcpp,
+    dplyr,
+    stats,
+    glmnet
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 7.3.1
