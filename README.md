@@ -27,14 +27,14 @@ We provide a Python 3-compatible alternative for UTMOST.
 
 To use it:
 
-**1. Clone the UTMOST repository**
+1. Clone the UTMOST repository
 ```bash
 $ git clone https://github.com/Joker-Jerome/UTMOST
 ```
 
-**2. Download and extract the `UTMOST_py3.zip` file from the main `UTMOST_fa` repository folder.**
+2. Download and extract the `UTMOST_py3.zip` file from the main `UTMOST_fa` repository folder.
 
-**3. Replace the `single_tissue_covariance.py` file and the `metax` folder inside the UTMOST directory with the provided Python 3 versions.**
+3. Replace the `single_tissue_covariance.py` file and the `metax` folder inside the UTMOST directory with the provided Python 3 versions.
 
 ## 4. Reference
 
