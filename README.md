@@ -21,7 +21,7 @@ A detailed tutorial is under development and will be provided soon.
 
 `UTMOST_fa` focuses on building and training gene expression imputation models for TWAS analyses. To apply these trained models on external GWAS summary statistics and identify disease-associated genes, please refer to [UTMOST](https://github.com/Joker-Jerome/UTMOST) framework.
 
-** Note for Python 3 users:
+# Note for Python 3 users:
 We provide a Python 3-compatible alternative for UTMOST. 
 
 To use it:
